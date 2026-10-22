@@ -1,0 +1,21 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.keystore
+!/app/debug.keystore
+*.jks
+keystore.properties
+/.impeccable/
+
+# Play demo video (upload it to YouTube; don't commit it)
+/store/demo/
